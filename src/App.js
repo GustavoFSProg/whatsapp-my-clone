@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import './App.css'
 import Avatar from '../src/assets/avatar.png'
 import Donut from '@material-ui/icons/DonutLarge'
